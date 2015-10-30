@@ -13,8 +13,9 @@ the multi-aligner's job easier.
 
 This code was written for Professor Justin Blumenstiel's lab at the University
 of Kansas; it was designed with his constant input. The work was funded, to the
-best of my recollection, by an NSF grant. My gratitude to Prof.  Blumenstiel,
-the NSF, and the University of Kansas for the opportunity to work on this.
+best of my recollection, by a grant from the National Science Foundation. My 
+gratitude to Prof.  Blumenstiel, the NSF, and the University of Kansas for the
+opportunity to work on this.
 
 ## Terms
 
